@@ -1,0 +1,22 @@
+starter/Form/registrationForm.java
+ starter.Form.registrationForm
+starter/search/SearchForm.java
+ starter.search.SearchForm
+starter/search/SearchResult.java
+ starter.search.SearchResult
+starter/stepdefinitions/FormStepdefinitions.java
+ starter.stepdefinitions.FormStepdefinitions
+starter/CucumberTestSuite.java
+ starter.CucumberTestSuite
+starter/Form/doRegistrationForm.java
+ starter.Form.doRegistrationForm
+starter/search/SearchResultList.java
+ starter.search.SearchResultList
+starter/navigation/DuckDuckGoHomePage.java
+ starter.navigation.DuckDuckGoHomePage
+starter/search/SearchFor.java
+ starter.search.SearchFor
+starter/matchers/StringContainsIgnoringCase.java
+ starter.matchers.StringContainsIgnoringCase
+starter/navigation/NavigateTo.java
+ starter.navigation.NavigateTo
